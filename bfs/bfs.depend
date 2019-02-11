@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549782751 source:c:\users\student\desktop\bfs\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
